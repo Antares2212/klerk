@@ -1,0 +1,15 @@
+body {
+  @apply bg-lihgt;
+}
+
+header {
+  @apply flex flex-col items-center mt-12 mb-6 text-center 
+}
+
+.h1 {
+  @apply mb-6 font-medium text-center lg:text-6xl sm:text-[32px]
+}
+
+.title {
+  @apply text-center text-2xl font-medium mb-6
+}

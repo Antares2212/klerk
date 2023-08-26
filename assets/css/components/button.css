@@ -1,0 +1,13 @@
+@layer components {
+  .btn-form {
+    @apply absolute right-0 bg-primary rounded-full text-lihgt hover:bg-opacity-80 active:backdrop-brightness-50 transition-all;
+  }
+
+  .btn-sm {
+    @apply flex items-center justify-center w-14 h-14 px-0 rounded-full
+  }
+
+  .btn-md {
+    @apply w-auto h-auto py-4 px-8
+  }
+}

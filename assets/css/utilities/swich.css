@@ -1,0 +1,7 @@
+.dot {
+  @apply absolute left-px top-px bg-lihgt rounded-full transition hover:bg-opacity-40 cursor-pointer;
+}
+
+.tabItem {
+  @apply box-border cursor-pointer py-4 px-4 hover:bg-fade-1 transition-all border-lihgt border-b-2
+}

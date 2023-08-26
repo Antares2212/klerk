@@ -9,17 +9,16 @@ module.exports = {
   ],
   theme: {
     screens: {
-      xl: "1440px",
       lg: "1024px",
       md: "640px",
       sm: "375px",
+      xs: "320px"
     },
     colors: {
-      "bg-fade": "#F5F5F8",
-      "bg-lihgt": "#FFFFFF",
+      "lihgt": "#FFFFFF",
+      "fade-1": "#F5F5F8",
+      "fade-2": "#666666",
       "disabled": "#999999",
-      "text-primary": "#000000",
-      "text-fade": "#666666",
       "primary": "#316FEE",
       "stroke": "#DCDCDC"
     },

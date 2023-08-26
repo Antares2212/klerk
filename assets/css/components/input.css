@@ -1,0 +1,5 @@
+@layer components {
+  .input-form {
+    @apply flex w-full mx-auto mb-6 p-4 rounded-l-[8px] rounded-r-[100px];
+  }
+}

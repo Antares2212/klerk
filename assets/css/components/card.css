@@ -1,0 +1,17 @@
+@layer components {
+  .cardList {
+    @apply flex justify-between max-w-[476px] p-6 box-border bg-lihgt rounded-2xl text-sm drop-shadow-lg;
+  }
+  
+  .cardItem {
+    @apply flex flex-col w-full justify-between max-w-[348px] md:pr-6;
+  }
+
+  .cardImage {
+    @apply w-20 h-20
+  }
+
+  .cardImage-xs {
+    @apply xs:max-md:absolute xs:max-md:top-6 xs:max-md:right-6 xs:max-md:w-[40px] 
+  }
+}

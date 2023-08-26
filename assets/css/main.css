@@ -1,7 +1,15 @@
+/* Base imports */
+@import "base/main.css";
+
+/* Component imports */
+@import "components/card.css";
+@import "components/button.css";
+@import "components/input.css";
+@import "components/bread.css";
+
+/* Utilities imports */
+@import "utilities/swich.css";
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-body {
-  @apply bg-bg-lihgt;
-}
