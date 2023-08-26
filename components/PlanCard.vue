@@ -6,7 +6,7 @@
       <div class="text-fade-2 my-3">{{ card.description }}</div>
       <div class="mb-1" v-for="option in card.options">
         <div class="flex items-start">
-          <img class="mr-2 pt-[0.5px]" src="images/icons/check.svg" alt="check">
+          <img class="mr-2 pt-[0.5px]" src="/images/icons/check.svg" alt="check">
           {{ option }}
         </div>
       </div>

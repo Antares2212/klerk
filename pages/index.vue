@@ -2,7 +2,7 @@
   <div class="lg:container mx-auto">
     <header>
       <div class="logo mb-6">
-        <img src="images/logo.png" alt="logo" />
+        <img src="/images/logo.png" alt="logo" />
       </div>
       <div class="nav">
         <BreadMenu :breadcrumbs="breadcrumbs" />
@@ -30,7 +30,7 @@
       </div>
     </div>
     <div class="footer ">
-      <img class="mx-auto p-12" src="images/footer.png" alt="">
+      <img class="mx-auto p-12" src="/images/footer.png" alt="">
     </div>
   </div>
 </template>

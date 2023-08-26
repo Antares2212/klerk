@@ -11,7 +11,7 @@ export default defineEventHandler(async () => {
         'Подборка статей за день'
       ],
       switch: 'Уже получает 59 342 человек',
-      image: 'images/card1.png'
+      image: '/images/card1.png'
     },
     { 
       id: '2',
@@ -23,7 +23,7 @@ export default defineEventHandler(async () => {
         'Лучшие комменты юзеров в обзоре'
       ],
       switch: 'Уже получает 37 480 человек',
-      image: 'images/card2.png'
+      image: '/images/card2.png'
     },
     { 
       id: '3',
@@ -35,7 +35,7 @@ export default defineEventHandler(async () => {
         'Те, кто подписался – экономят много денег '
       ],
       switch: 'Уже получает 92 118 человек',
-      image: 'images/card3.png'
+      image: '/images/card3.png'
     },
     { 
       id: '4',
@@ -47,7 +47,7 @@ export default defineEventHandler(async () => {
         'Подборка топовых тем для вебинаров'
       ],
       switch: 'Уже получает 92 082 человек',
-      image: 'images/card4.png'
+      image: '/images/card4.png'
     },
   ]
 

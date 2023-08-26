@@ -13,7 +13,7 @@ import { NuxtLink } from '../.nuxt/components';
           {{ breadcrumb.text }}
         </NuxtLink>
         <span v-if="index < breadcrumbs.length - 1" class="mx-2">
-          <img src="images/icons/breadcrumbs.svg" alt="arrow-right" />
+          <img src="/images/icons/breadcrumbs.svg" alt="arrow-right" />
         </span>
       </li>
     </ol>

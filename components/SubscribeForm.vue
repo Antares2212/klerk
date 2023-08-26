@@ -13,7 +13,7 @@
           Подписаться
         </span>
         <span class="xs:block md:hidden">
-          <img src="images/icons/arrow-right.svg" alt="arrow-right">
+          <img src="/images/icons/arrow-right.svg" alt="arrow-right">
         </span>
       </button>
     </div>
